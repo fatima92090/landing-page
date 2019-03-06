@@ -1,0 +1,524 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header*/
+	.header-content {
+		padding: 180px 0;
+	}
+	.header-content p {
+		font-size: 25px;
+	}
+	.header-content button {
+		padding: 11px 30px;
+	}
+	.circle {
+		margin-top: 20px;
+		height: 40px;
+		width: 40px;
+	}
+	.circle i {
+		font-size: 34px;
+	}
+	.header-content button {
+		margin-top: 25px;
+		font-size: 12px;		
+	}
+	.carddetails {
+		font-size: 12px !important;
+		padding-top: 10px;
+	}
+	/*newdesign*/
+	.design-left {
+		padding-top: 60px;
+		padding-bottom: 50px;
+		padding-left: 55px
+	}
+	.design-left h3 {
+		font-size: 21px;
+		padding-top: 8px;
+		padding-bottom: 17px;
+	}
+	.design-left span, .design-left p, .featuree-content span, .box p {
+		font-size: 12px;
+	}
+	.design-right img {
+		height: auto;
+	}
+	/*feature*/
+	.featuree-content {
+		padding-top: 45px;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.box {
+		padding-top: 15px;
+	}
+	.featuree h3  {
+		font-size: 18px;
+		padding-bottom: 43px;
+	}
+	.box h3{
+		padding-bottom: 3px;
+	}
+	.box-content {
+		padding: 0 6px;
+		padding-bottom: 30px;
+	}
+	/*client*/
+	.img-index {
+		width: 70%;
+	}
+	.img-index1 {
+		z-index: 2;
+		position: absolute;
+		left: 7%;
+		bottom: 10%;
+		width: 85%;
+	}
+	.responsivedesign-text {
+		padding-left: 9%;
+	}
+	.responsivedesign-text span{
+		font-size: 12px;
+	}
+	.responsivedesign-text h3 {
+		font-size: 23px;
+	}
+	.responsivedesign-text p{
+		font-size: 12px;
+	}
+	/*client*/
+
+	.client-box h4 {
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+	.client-box span {
+		font-size: 12px;
+	}
+	.client-box p {
+		font-size: 12px;
+		padding-top: 15px;
+	}
+	/*somefeature */
+	.feature-text{
+		padding-top: 60px;
+	}
+	.feature-text span{
+		font-size: 11px;
+	}
+	.feature-text h3{
+		font-size: 21px;
+	}
+	.feature-text p{
+		font-size: 11px;
+		padding-bottom: 25px;
+		padding-top: 12px;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	.feature-img img{
+		max-width: 80%;
+	}
+
+	/*form*/
+	.formsection {
+		padding: 50px 0;
+	}
+	.formsection-text span {
+		font-size: 11px;
+	}
+	.formsection-text h3 {
+		font-size: 17px;
+	}
+
+	.form_try {
+		padding-top: 25px;
+		padding-bottom: 20px;
+	}
+	.arrow-cust img{
+		position: relative;
+		left: 45px;
+	}
+	.arrow-cust span {
+		position: relative;
+		bottom: 11px;
+		right: -8px;
+		font-size: 10px;
+	}
+	.cust-input{
+		font-size: 12px;
+		width: 260px;
+		margin: 0 auto;
+		margin-bottom: 10px;
+		
+	}
+	.btn-cust{
+		font-size: 12px;
+		padding: 14px 102px;
+
+	}
+	.sty-center{
+		text-align: center;
+	}
+	.terms{
+		font-size: 11px;
+	}
+	footer {
+		text-align: center;
+	}
+	.footer-mg span, .footer-mg ul li {
+		font-size: 12px;
+	}
+		.cust-email{
+		    margin-left: 25px;
+	}
+	.margin-icon {
+    margin-left: 35%;
+}
+.col-height{
+height: 180px !important;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header*/
+	.header-content {
+		padding: 190px 0;
+	}
+	.header-content p {
+		font-size: 42px;
+	}
+	.header-content button {
+		padding: 16px 45px;
+	}
+	.circle {
+		margin-top: 30px;
+	}
+	.header-content button {
+		margin-top: 30px;		
+	}
+	/*newdesign*/
+	.design-left {
+		padding-top: 60px;
+		padding-bottom: 50px;
+		padding-left: 55px
+	}
+	.design-left h3, .featuree h3 {
+		font-size: 23px;
+		padding-top: 8px;
+		padding-bottom: 17px;
+	}
+	.design-left span, .design-left p,.featuree-content span {
+		font-size: 12px;
+	}
+	/*feature*/
+	.featuree-content {
+		padding-top: 12px;
+	}
+	.featuree-content h3{
+		padding-bottom: 33px;
+	}
+	.box-content {
+		padding: 0 10px;
+		padding-bottom: 27px;
+
+	}
+	.box h3 {
+		font-size: 17px;
+		padding-top: 15px;
+		padding-bottom: 3px;
+	}
+	.box p {
+		font-size: 14px;
+	}
+
+	/*client*/
+	.responsivedesign-text {
+		padding-top: 9%;
+		padding-left: 3%;
+		padding-right: 3%;
+	}
+	.responsivedesign-text span{
+		font-size: 12px;
+	}
+	.responsivedesign-text p{
+		font-size: 10px;
+	}
+	.responsivedesign-text h3 {
+		font-size: 15px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+	/*client*/
+
+	.client-box h4 {
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+	.client-box span {
+		font-size: 12px;
+	}
+	.client-box p {
+		font-size: 12px;
+		padding-top: 15px;
+	}
+
+	/*somefeature */
+	.feature-text{
+		padding-top: 60px;
+	}
+	.feature-text span{
+		font-size: 12px;
+	}
+	.feature-text h3{
+		font-size: 23px;
+	}
+	.feature-text p{
+		font-size: 12px;
+		padding-bottom: 25px;
+		padding-top: 12px;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	.feature-img img{
+		max-width: 80%;
+	}
+	/*form*/
+	.formsection-text span {
+		font-size: 12px;
+	}
+	.formsection-text h3 {
+		font-size: 23px;
+	}
+
+	.form_try {
+		padding-top: 25px;
+		padding-bottom: 20px;
+	}
+	.arrow-cust img{
+		position: relative;
+		left: 45px;
+	}
+	.arrow-cust span {
+		position: relative;
+		bottom: 11px;
+		right: -8px;
+		font-size: 10px;
+	}
+	.cust-input{
+		font-size: 12px;
+		
+	}
+	.btn-cust{
+		font-size: 12px;
+		padding: 10px 30px;
+	}
+
+	.terms{
+		font-size: 12px;
+	}
+	/*footer*/
+	footer {
+		padding-top: 45px;
+	}
+	.footer-mg {
+		padding-left: 0px; 
+	}
+	footer h4{
+		font-size: 18px;
+	}
+	.start-img img {
+		padding-bottom: 3px;
+	}
+
+	.footer-mg span, .footer-mg ul li {
+		font-size: 12px;
+	}
+
+	.Newsletter-img img {
+		bottom: 180px;
+		left: 160px;
+	}
+
+	.footer-mg span, .footer-mg ul li {
+		font-size: 11px;
+	}
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+	/*header*/
+	.header-content {
+		padding: 200px 0;
+	}
+	.header-content p {
+		font-size: 52px;
+	}
+
+	.circle {
+		margin-top: 30px;
+	}
+	.header-content button {
+		margin-top: 30px;		
+	}
+
+	/*newdesign*/
+	.design-left {
+		padding-top: 90px;
+		padding-left: 90px;
+		padding-bottom: 80px;
+	}
+	.design-left h3, .featuree h3 {
+		font-size: 27px;
+	}
+	.design-left h3 {
+		padding-top: 10px;
+		padding-bottom: 22px;
+	}
+	.design-left span, .design-left p, .featuree-content span, .responsivedesign-text span {
+		font-size: 14px;
+	}
+	/*feature*/
+	.featuree-content {
+		padding-top: 65px;
+	}
+	.featuree-content h3{
+		padding-bottom: 45px;
+	}
+
+	.box-content {
+		padding: 0 40px;
+		padding-bottom: 40px;
+	}
+	.box h3 {
+		font-size: 17px;
+		padding-top: 18px
+	}
+	.box p {
+		font-size: 14px;
+	}
+
+	/*client*/
+	.responsivedesign-text p{
+		font-size: 12px;
+	}
+	.responsivedesign-text h3 {
+		font-size: 20px;
+		padding-top: 2px;
+		padding-bottom: 3px;
+	}
+	/*client*/
+	.client-box h4 {
+		font-size: 18px;
+		margin-bottom: 0;
+	}
+	.client-box span {
+		font-size: 14px;
+	}
+	.client-box p {
+		font-size: 14px;
+	}
+	/*somefeature */
+	.feature-text{
+		padding-top: 60px;
+	}
+	.feature-text span{
+		font-size: 14px;
+	}
+	.feature-text h3{
+		font-size: 27px;
+	}
+	.feature-text p{
+		font-size: 14px;
+		padding-bottom: 25px;
+		padding-top: 12px;
+		padding-left: 9%;
+		padding-right: 9%;
+	}
+	.feature-img img{
+		max-width: 80%;
+	}
+
+	/*form*/
+	.formsection-text span {
+		font-size: 14px;
+	}
+	.formsection-text h3 {
+		font-size: 27px;
+	}
+
+	.form_try {
+		padding-top: 30px;
+		padding-bottom: 25px;
+	}
+	.arrow-cust img{
+		position: relative;
+		left: 45px;
+	}
+	.arrow-cust span {
+		position: relative;
+		bottom: 15px;
+		right: -16px;
+		font-size: 14px;
+	}
+	.cust-input{
+		font-size: 14px;
+
+	}
+	.btn-cust{
+		font-size: 14px;
+	}
+	.terms{
+		font-size: 14px;
+	}
+	/*footer*/
+	footer {
+		padding-top: 45px;
+	}
+	footer h4{
+		font-size: 18px;
+	}
+	.start-img img {
+		padding-bottom: 3px;
+	}
+
+	.footer-mg span, .footer-mg ul li {
+		font-size: 12px;
+	}
+
+	.Newsletter-img img {
+		bottom: 315px;
+		left: 30px;
+	}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*.Newsletter-img img {
+    position: relative;
+    bottom: 243px;
+    left: 32px;
+    }*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1499.98px){
+
+
+}
+
+/* Extra large devices (large desktops, 1500px and up) */
+@media (min-width: 1500px){
+}
