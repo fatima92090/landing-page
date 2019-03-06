@@ -30,7 +30,8 @@
 	.design-left {
 		padding-top: 60px;
 		padding-bottom: 50px;
-		padding-left: 55px
+		padding-left: 35px;
+		padding-right: 25px;
 	}
 	.design-left h3 {
 		font-size: 21px;
@@ -169,15 +170,15 @@
 	.footer-mg span, .footer-mg ul li {
 		font-size: 12px;
 	}
-		.cust-email{
-		    margin-left: 25px;
+	.cust-email{
+		margin-left: 25px;
 	}
 	.margin-icon {
-    margin-left: 35%;
-}
-.col-height{
-height: 180px !important;
-}
+		margin-left: 35%;
+	}
+	.col-height{
+		height: 180px !important;
+	}
 
 }
 
